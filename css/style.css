@@ -2408,20 +2408,20 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #212529;
-  background-color: #62C3E7;
-  border-color: #62C3E7;
+  background-color: #9cce0a;
+  border-color: #9cce0a;
 }
 
 .btn-secondary:hover {
   color: #212529;
-  background-color: #41b6e2;
-  border-color: #36b2e0;
+  background-color: #4b6c3d;
+  border-color: #4b6c3d;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
   color: #212529;
-  background-color: #41b6e2;
-  border-color: #36b2e0;
+  background-color: #4b6c3d;
+  border-color: #4b6c3d;
   box-shadow: 0 0 0 0.2rem rgba(88, 171, 203, 0.5);
 }
 
@@ -2434,8 +2434,8 @@ fieldset:disabled a.btn {
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
 .show > .btn-secondary.dropdown-toggle {
   color: #fff;
-  background-color: #36b2e0;
-  border-color: #2baedf;
+  background-color: #4b6c3d;
+  border-color: #4b6c3d;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active:focus, .btn-secondary:not(:disabled):not(.disabled).active:focus,
@@ -2698,8 +2698,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary {
-  color: #62C3E7;
-  border-color: #62C3E7;
+  color: #9cce0a;
+  border-color: #9cce0a;
 }
 
 .btn-outline-secondary:hover {
@@ -9525,7 +9525,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #F195B2 !important;
+  color: #9cce0a !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9783,7 +9783,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #F195B2;
+  color: #9cce0a;
 }
 
 @media (max-width: 991.98px) {
@@ -9953,7 +9953,7 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #F195B2;
+  color: #9cce0a;
   background: #FFFFFF;
   border-radius: 60px;
   font-size: 30px;
@@ -9977,7 +9977,7 @@ h6,
   right: 0;
   bottom: -15px;
   left: 0;
-  background: #F195B2;
+  background: #9cce0a;
   border-radius: 150px;
   z-index: -1;
 }
@@ -10004,7 +10004,7 @@ h6,
 }
 
 .product-item:hover .btn {
-  background: #F195B2 !important;
+  background: #4b6c3d !important;
 }
 
 .portfolio-item::after {
@@ -10049,7 +10049,7 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 15px solid #F195B2;
+  border: 15px solid #9cce0a;
   border-radius: 200px;
   overflow: hidden;
   z-index: 1;
@@ -10062,7 +10062,7 @@ h6,
   right: 15px;
   bottom: 15px;
   left: 15px;
-  border: 2px solid #F195B2;
+  border: 2px solid #9cce0a;
   border-radius: 200px;
   transition: .5s;
   z-index: 2;
@@ -10115,7 +10115,7 @@ h6,
   width: 15px;
   height: 15px;
   border-radius: 15px;
-  background: #F195B2;
+  background: #4b6c3d;
 }
 
 .testimonial-carousel .owl-dot::after {
@@ -10125,7 +10125,7 @@ h6,
   right: -5px;
   bottom: -5px;
   left: -5px;
-  border: 2px solid #F195B2;
+  border: 2px solid #9cce0a;
   border-radius: 20px;
 }
 

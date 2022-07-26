@@ -10147,3 +10147,12 @@ h6,
 .logo-img{
   height: 70px;
 }
+.btn-alternate{
+  background: #4b6c3d;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.btn-alternate:hover{
+  color: #FFFFFF;
+  cursor: pointer;
+}
